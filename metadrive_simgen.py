@@ -63,7 +63,7 @@ def add_text(image, text_prompt):
     draw = ImageDraw.Draw(overlay)
 
     # Define the text and font
-    font_path = "Arial.ttf"  # Replace with your font path
+    font_path = "font/DejaVuSans.ttf"  # Replace with your font path
     font_size = 70
     font = ImageFont.truetype(font_path, font_size)
 
