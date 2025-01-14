@@ -59,6 +59,12 @@
 - [ ] Toolkits for novel scene generation
 
 ## Quick Start
+
+### Prerequisites
+
+Running this on AlmaLinux requires:
+`dnf install dejavu-sans-fonts libglvnd-glx`
+
 ### Installation
 You could install simgen package to enable simulator-conditioned generation.
 ```bash
@@ -134,4 +140,7 @@ You are welcome to follow other related work from <a href="https://twitter.com/Y
 
 - [ELM](https://github.com/OpenDriveLab/ELM) | [OpenScene](https://github.com/OpenDriveLab/OpenScene) | [DriveAGI](https://github.com/OpenDriveLab/DriveAGI)
 - [ScenarioNet](https://github.com/metadriverse/scenarionet) | [CAT](https://github.com/metadriverse/cat) | [FreeControl](https://github.com/genforce/freecontrol)
+
+
+
 
